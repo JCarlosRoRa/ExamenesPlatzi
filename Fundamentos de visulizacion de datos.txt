@@ -1,0 +1,53 @@
+1. Curso de Principios de Visualización de Datos para Business Intelligence
+-segmentacion de clientes 
+2.- ¿Para qué nos sirve un KPI?
+todas son correctas medir, mejorar y  evaluar 
+3.-  ¿Qué es Business Intelligence?
+Datos transformados en informacion del negocio relevante para la toma de decisiones
+4.-Las distintas bases de datos por el tipo de información que contienen pueden ser:
+Publicas y privadas
+5.- Se pueden implementar el uso de KPI en los reportes
+Verdadero
+6.-¿Porqué es importante contar historias?
+nos permiten mejorar la organizacion ****
+7.-En una gráfica de dispersión, la frecuencia de los datos se representa por:
+puntos ubicados en el plano cartesiano 
+8.-¿Qué es la carga cognitiva?
+El esfuerzo para entender y retener informacion
+9.-Herramientas de visualización de datos generalmente utilizada en los ámbitos de mercadotecnia:
+Google analytics y google data studio 
+10.- Es la herramienta de visualización de datos que cuenta con una comunidad enorme y organiza eventos como el Iron Viz:
+Tableau
+11.- Ventajas del Business Intelligence
+Facilita la toma de decisiones **
+12.-En una gráfica de barras, la frecuencia de los datos se representa por: 
+la altura 
+13.-¿Qué no debemos hacer en una gráfica de burbujas?
+utilizar elementos 3D
+14.-¿Cuál es el primer paso del flujo de trabajo del Business Intelligence?
+Recoleccion de datos 
+15.- En una gráfica de pastel, la frecuencia de los datos se representa por:
+El area que ocupa de una circunferencia 
+16.-El departamento de Business Intelligence generalmente presenta reportes a:
+De direccion y  gerencia
+17.- ¿Qué es un KPI?
+Key performance indicator
+18.-¿Para qué nos sirven los reportes?
+Para concentrar nuestros resultados 
+19.- ¿La visualización de datos es un tema exclusivamente digital?
+Falso 
+20.- Herramienta de visualización de datos utilizada en ámbito corporativo y generalmente considerada como siguiente paso de transición después del uso de Excel
+Power BI
+21.- ¿Cómo agregamos valor a nuestro trabajo utilizando el Business Intelligence?
+analizando informacion y tomando decisiones
+22.-¿Qué gráfica debo utilizar para representar una correlación entre variables?
+Dispersion 
+23.-Al usar gráficas de tablas se recomienda:
+Acompañarlas con otro dataviz para mejor claridad de los datos 
+24.-Herramienta de visualización de datos conocida por la facilidad de creación de Storytelling:
+Tableau
+25.-No es una buena práctica de los Data Viz:
+Cherry picking
+26.- La manera en que podemos encontrar la información para su recolección:
+Estructurada y no estructurada
+
