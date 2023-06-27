@@ -1,0 +1,46 @@
+1.-Cuál es el comando de Pandas que retorna count, mean,std, min, max y otras variables para todas las columnas numéricas en un DataFrame?
+describe
+2.-¿Con cuál opción de NumPy se puede filtrar un array de tipo arr = np.array([13, 6, 3, 5, 10]) para solo retornar números superariores a 7?
+arr[arr>7]
+3.-¿Qué genera np.linspace(0,10,100)?
+100 elementos de 0 a 10
+4.- El comando copia_arr = arr.copy() crea una copia en memoria independiente de arr en un objeto llamado copia_arr. Esto es:
+verdadero
+5.-¿Para qué sirve el comando expand_dims de Numpy?
+*********
+6.-¿Qué permite el comando de Pandas df.fillna('missing')?
+reemplazar los valores nulos por missing
+7.- coomo saber el numero de dimensiones de un arreglo 
+ndim 
+8.-¿Cuál es el método para definir un array en Numpy?
+np.array([12,3,3])
+9.-¿Podemos considerar el array como el objeto principal de NumPy?
+verdadero 
+10.-¿Qué retorna la propiedad std() en un array de NumPy?
+la desviacion estandar 
+11.-¿Qué indica que el comando df.isnull() en Pandas si retorna True en una posición?
+que ese valor es nulo 
+12.-¿Cuál es el resultado de esta operación en NumPy es np.array(['hola','2','4','5'],dtype='float64')
+error en la conversion de datos 
+13.-Es el comando de Pandas que elimina los duplicados de un DataFrame:
+drop_duplicates
+14. ¿Qué forma (shape) tiene el siguente array de NumPy?
+[[7 8]
+[2 1]
+[2 4]]
+3,2
+15. ¿Qué debería ir en el parámetro how de la sentencia merge en Pandas para que muestre solo los match en ambos DataFrames?
+inner
+16.¿Cuál es la estructura base para leer un archivo csv llamado file.csv con Pandas?
+pd.read_csv(file)
+17.-¿Cuál es el resultado del comando np.sort(arr) siendo arr = np.array([13, 6, 3, 5, 10])?
+18.-¿np.arange(0,10) con cuántos elementos creará un array?
+10
+19.-¿Cuál es el resultado del comando np.argmax(arr) siendo arr = np.array([13, 6, 3, 5, 10])?
+0
+20.-¿En una sentencia de Apply de Pandas a un dataset es necesario enviarle una función definida previamente?
+Falso 
+21.-¿Qué se obtiene de comando tipo df_books.loc[0:10, ['Name', 'Author']]?
+11 valores que incluyan name y author 
+
+
