@@ -1,0 +1,25 @@
+1. ¿Con qué comando instalamos el paquete requests en su versión 2.27.1?
+pip install requests== 2.27.1
+2. ¿Con qué comando activamos entornos virtuales en Python 3?
+source ruta/bin/activate
+3. En tu proyecto A necesitas matplotlib en su versión 3.5, pero tu proyecto B necesita el mismo paquete en su versión 3.6. ¿Cuál es la mejor forma de trabajar para no generar conflictos entre ambos paquetes?
+aislando cada proyecto en su ambiente virtual para instalar la version correcta en cada uno sin afectar al otro 
+4.-Estás desarrollando un proyecto en Python que utiliza diferentes paquetes de terceros en versiones muy especificas. ¿Cuál es la mejor forma de trabajar con el resto de mi equipo para que siempre instalen esos paquetes en esas versiones cuando clonen el proyecto?
+creando un requirementes con los paquetes y versiones e indicando en el README
+5. ¿Con qué comando instalamos el paquete FastAPI en su última versión estable (sin importar la fecha en que se ejecute ni las viejas o nuevas versiones que se desarrollen de FastAPI).
+pip install fastapi 
+6. ¿Con qué comando creamos entornos virtuales en Python 3?
+python3 -m venv ruta 
+7.¿Qué herramienta nos permite aislar y encapsular nuestros proyectos y los paquetes de terceros que este utilice, aunque la versión de Python y el sistema operativo sigan siendo los mismos para todos los proyectos?
+venv
+8. Tienes un archivo de texto llamado requirements.txt con todos los paquetes que necesitas con cierta versión en particular. ¿Cómo los instalas todos leyendo el archivo de texto con un solo comando
+pip3 install -r requiriments.txt.
+9. ¿Qué herramienta nos permite aislar y encapsular TODO: archivos del proyecto, paquetes y sus versions, Python e incluso el sistema operativo?
+Docker
+10.- ¿Qué herramienta nos permite instalar paquetes de Python como dependencias en nuestros proyectos?
+pip
+
+11. ¿Con qué comando guardamos el nombre y versión de todos los paquetes de terceros en nuestro proyecto dentro de un archivo de texto?
+pip3 freeze > requirenments.txt
+12 ¿Qué es un entorno virtual?
+	La herramienta de Python para aislar o encapsular proyectos con sus propios paqutes y versiones sin afectar a otros proyectos y entornos virtuales.
