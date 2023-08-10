@@ -1,0 +1,38 @@
+1.-¿Cuál comando de Matplotlib se usa para crear un histograma?
+plt.hist
+2.- ¿Con cuál comando de Seaborn se pueden ver múltiples relaciones en todo un dataset?
+sns.pairplot
+3.-¿Para qué sirve el uso de leyendas, etiquetas y títulos en nuestras visualizaciones de datos?
+Mas contexto a nuestros graficos
+4.-Con este comando de Seaborn se pueden crear distintos tipos de datos orientados a gráficos de relación:
+sns.relplot
+5.-Este gráfico es muy útil para ver la correlación entre dos variables:
+scatter 
+6.-Con este comando de Seaborn se pueden crear distintos tipos de gráficos orientados a distribución
+sns.displot
+7.-¿Cuál es la propiedad para definir el estilo de la línea en un plot de Matplotlib?
+linestyle
+8.-¿Es posible mezclar dos tipos de gráficos como swarmplot y boxplot en una gráfica de Seaborn?
+Verdadero
+9.-Sentencia de Matplotlib para crear un lineplot de x, y con puntos azules:
+plt.plot(x,y,'bo')
+10.-¿Con la sentencia plt.subplot(1,2,1) de Matplotlib a qué estoy accediendo?
+El primer plot de una fila y dos columnas.
+11.-¿Qué nos permite encontrar la visualización de datos?
+Todas las anteriores (comportamientos, tendencias, outliers)
+12.-Es posible cambiar la paleta de colores, estilo, fuente y otros parámetros con ese comando de seaborn
+sns.set 
+13.-¿En el parámetro data de Seaborn que se debe poner?
+La fuente de los datos 
+14.-Con este parámetro en joinplot de Seaborn se pueden modificar los valores de las gráficas secundarias de los ejes:
+marginal_kws
+15.- ¿El método orientado a objetos de Matplotlib es mejor que el método de pyplot?
+Depende de la necesidad y su eso 
+16.-Este tipo de gráfica muy utilizado en Seaborn es útil para visualizar estructuras matriciales:
+heatmap
+17.-¿En la sentencia de Matplotlib "fig, axes = plt.subplots(nrows=1, ncols=2)" axes de qué tipo se le asigna un objeto?
+ndarray (NumPy array
+18.-¿En Matplotlib a diferencia de plt.bar, para qué funciona plt.barh?
+es lo mismo que plt.bar pero horizontal 
+
+

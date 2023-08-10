@@ -1,0 +1,77 @@
+La norma se usa en machine learning para encontrar errores.
+La norma L0: devuelve la cantidad de elementos diferentes de 0 del vector.
+La norma L1: devuelve la suma de los valores absolutos de los elementos del vector.
+La norma L2: La magnitud del vector desde su origen.
+La norma infinito: devuelve el valor absoluto más grande del vectora
+
+
+Examen algebra 
+1.Si estoy en un espacio de dimensión 3 y tengo una matriz, ¿cuántas filas / columnas ortogonales puedo tener como máximo?
+3 vectorres ortonormales
+2.-¿Cuánto da la norma 0 (cero) del vector [-50,-25,0,25,100,-300]?
+5
+3.El producto interno de una matriz de dimensiones (3,2) y un vector de dimensión (2, ) nos devuelve:
+Un vector de 3,
+4.-Cuando tengo dos matrices A y B, con A de dimensiones (3,2) y B (2,3), entonces con respecto al producto interno
+Siempre se puede calcular el producto interno, pero da distintos resultados 
+5.-Transponer la matriz [[1, 2, 3, 4] [5, 6, 7, 8] [9,10, 11,12]] da como resultado:
+[[ 1  5  9]
+ [ 2  6 10]
+ [ 3  7 11]
+ [ 4  8 12]]
+6.- ¿Qué ángulo forman los vectores v1 = [0,1] y v2 = [1,0]?
+90 grados 
+7.- Cuál de estas afirmaciones es VERDADERA respecto al determinante de la Matriz
+[[1 0 0 0 0]
+[0 2 0 0 0]
+[0 0 3 0 0]
+[0 0 0 4 0]
+[0 0 0 0 5]]
+
+Resp 120
+
+8.-¿Cómo debo representar el escalar 5 según la definición matemática con Python?
+escalar =5
+
+10.- ¿Son ortogonales los vectores v = [7,-7,3], u=[1,1,0] y w=[0,0,1]?
+si por que dan 0
+
+11.- ¿Cuánto da la norma del vector [1/2,1/2,1/2,1/2]? Observación: la norma que vimos durante la clase es la norma 2
+
+1
+
+12.-¿Cómo puedo comprobar si una matriz A es simétrica?
+A==A.T
+
+13.-Dadas A y B, tal que A.dot(B) está definido, entonces al transponer(A.dot(B)) siempre es igual a:
+
+B.T.dot(A.T)
+
+14.-Cuando calculo la dimensión del escalar 3.1 con el comando escalar.shape, ¿qué respuesta obtengo?
+ 'float' object has no attribute 'shape'
+
+15.-¿Es importante definir funciones auxiliares que estén fuera de nuestro código princitopal?
+Si es importante
+
+16.-Un sistema de ecuaciones lineales en R2 tiene infinitas soluciones cuando:
+todas las ecuciones estan sobre la misma recta 
+
+17.-Para calcular la dimensión de un tensor debo usar la instrucción/atributo:
+tensor.shape
+
+18.-¿Qué código debo usar para crear un vector con los elementos 2 y 3 ([2,3])?
+vector= np.array([2,3])
+
+19.-Un sistema de ecuaciones lineales con 4 ecuaciones y 4 incógnitas, que tiene solución, se puede representar en su forma matricial por:
+
+20.-¿Las matrices singulares tienen inversa?
+No
+
+21.- Dado el sistema de ecuaciones lineales y = 7x+2 y = 3x+5 ¿Cuál es la solución del sistema?
+[[0.75]
+ [7.25]]
+
+22 ¿El producto interno es conmutativo? O sea si tengo A y B matrices, tal que es posible calcular el producto interno, hacer A.dot(B) siempre es lo mismo que hacer B.dot(A)?
+No solo en casos particulres
+
+23.- Sumar la matriz [[1 3] [5 6]] con el escalar 3 (matriz+escalar) da lo mismo que hacer:
